@@ -31,44 +31,7 @@ as given below as an example.
    programming language of choice.
 
 Have a look at the following link for some background information:
-http://www.happycube.com/
-
-Here is an example:
-The pieces of the blue cube look as follows:
-
-    []    []  []  []    []  
-  [][][]  [][][][][]  [][][][]
-[][][][][]  [][][]  [][][][] 
-  [][][]  [][][][][]  [][][][]
-    []    []  []  []    []  
-  []  []    []  []    []  [] 
-[][][][]  [][][][][]  [][][][]
-  [][][][]  [][][]  [][][][]  
-[][][][]  [][][][][]  [][][][]
-[][]  []  []  []    [][]  [][]
-
-One of the solutions in "unfolded form" looks as follows:
-	 
-    []        []  []  []  []  
-  [][][]  [][][][][]  [][][] 
-[][][][][]  [][][]  [][][][][]
-  [][][]  [][][][][]  [][][] 
-    []      []  [][]    []  
-          []  []       
-          [][][][][]     
-            [][][]      
-          [][][][][]     
-            []  []      
-          []  []  []     
-          [][][][][]     
-            [][][]      
-          [][][][][]     
-          []  []  []     
-            []  []      
-          [][][][]      
-            [][][][]     
-          [][][][]      
-          [][]  []   	 
+http://www.happycube.com/ 
 
 Additional challenge 1 : All unique solutions :
 In the base task you are only required to find one solution and to
